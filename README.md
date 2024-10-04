@@ -8,5 +8,10 @@ in this section we learn how to make a git repo
 - feature 2
 - feature 3
 
-[Youtube Channel](https://www.youtube.com/@BW8builtwithbits)
+```
+git init
+```
 
+to create a new repo we can use `git init`
+
+[Youtube Channel](https://www.youtube.com/@BW8builtwithbits)
