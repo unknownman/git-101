@@ -1,1 +1,4 @@
-another change in second.txt
+a
+
+change
+nother change in second.txt
